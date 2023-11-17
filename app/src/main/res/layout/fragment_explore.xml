@@ -22,14 +22,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:icon="@drawable/baseline_local_airport"
-        android:text="Explore" />
+        android:text="Flights" />
 
     <com.google.android.material.tabs.TabItem
         android:id="@+id/idTabItemTrips"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:icon="@drawable/baseline_card_travel"
-        android:text="Explore" />
+        android:text="Trips" />
 
 
 </RelativeLayout>
